@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry external="true" kind="lib" path="D:/Google%20Drive/Projetos/Workspace/FinanceiraWEB/FinanceiroWeb/WebContent/WEB-INF/lib/jsf-impl.jar"/>
+	<buildpathentry external="true" kind="lib" path="D:/Google%20Drive/Projetos/Workspace/FinanceiraWEB/FinanceiroWeb/WebContent/WEB-INF/lib/primefaces-2.1.jar"/>
+</buildpath>
